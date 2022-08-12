@@ -17,7 +17,9 @@ Update of gauge graphics library originally published by [alitorki2651](https://
 
 #### Examples of graphics that can be made.
 
-
+![](https://github.com/andrelrf1/new_flutter_gauge/blob/master/images/gauge%201.png) ![](https://github.com/andrelrf1/new_flutter_gauge/blob/master/images/gauge%202.png)
+![](https://github.com/andrelrf1/new_flutter_gauge/blob/master/images/gauge%203.png) ![](https://github.com/andrelrf1/new_flutter_gauge/blob/master/images/gauge%204.png)
+![](https://github.com/andrelrf1/new_flutter_gauge/blob/master/images/gauge%205.png) ![](https://github.com/andrelrf1/new_flutter_gauge/blob/master/images/gauge%206.png)
 
 ## Getting started
 
